@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\BankSectorApplication\bin\Debug\net6.0\BankSectorApplication.exe
+C:\Users\USER\Desktop\BankSectorApplication\bin\Debug\net6.0\BankSectorApplication.deps.json
+C:\Users\USER\Desktop\BankSectorApplication\bin\Debug\net6.0\BankSectorApplication.runtimeconfig.json
+C:\Users\USER\Desktop\BankSectorApplication\bin\Debug\net6.0\BankSectorApplication.dll
+C:\Users\USER\Desktop\BankSectorApplication\bin\Debug\net6.0\BankSectorApplication.pdb
+C:\Users\USER\Desktop\BankSectorApplication\obj\Debug\net6.0\BankSectorApplication.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\BankSectorApplication\obj\Debug\net6.0\BankSectorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\BankSectorApplication\obj\Debug\net6.0\BankSectorApplication.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\BankSectorApplication\obj\Debug\net6.0\BankSectorApplication.AssemblyInfo.cs
+C:\Users\USER\Desktop\BankSectorApplication\obj\Debug\net6.0\BankSectorApplication.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\BankSectorApplication\obj\Debug\net6.0\BankSectorApplication.dll
+C:\Users\USER\Desktop\BankSectorApplication\obj\Debug\net6.0\refint\BankSectorApplication.dll
+C:\Users\USER\Desktop\BankSectorApplication\obj\Debug\net6.0\BankSectorApplication.pdb
+C:\Users\USER\Desktop\BankSectorApplication\obj\Debug\net6.0\BankSectorApplication.genruntimeconfig.cache
+C:\Users\USER\Desktop\BankSectorApplication\obj\Debug\net6.0\ref\BankSectorApplication.dll
